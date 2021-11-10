@@ -1,0 +1,67 @@
+Research QA and software testing jobs in New Zealand and overseas 
+
+Location: Linkedin
+- Auckland (163)
+- Wellington(44)
+- Christchurch (17)
+- Dunedin (1)
+
+
+Job Titles 
+- Software Tester
+- Test Analyst
+- Quality Assurance Specialist
+- Tester (IT)
+- QA Engineer
+
+
+What qualifications are required/desired 
+- A tertiary qualification with a relevant endorsement e.g. Engineering
+
+
+What experience is needed 
+- At least 3-years' experience (range of desired years, but some experience is wanted)
+- Communication skills
+- Experience working in an agile environmen
+- Proficiency in API testing principles and tools such as Postman, SoapUI, Fiddler, Charles or similar
+
+
+What remuneration is offered 
+- NZ Entry-level Software Tester NZ$51,10
+- US $94,072
+- Australia AU$83,859
+- Germany $60,162
+- Netherlands $54,025
+
+
+
+Research at least two Software Testing training courses and find out the following information 
+
+Location 
+- ISTQB 
+- ISTQB 
+
+
+What qualifications they offer 
+- ISTQB Foundation Agile Tester Extension Certification
+- ISTQB Foundation Usability Testing Course + Exam
+
+
+How long they run for 
+- 3 Days
+- 3 Days
+
+
+How much they cost 
+- $2399 (Live Training)
+- $2399 (Live Training)
+
+
+Are there any guarantees? 
+- NA
+- NA
+
+
+Extension: Investigate the controversy in the software testing community about the state of software testing qualification training. 
+- Controversy against ISTQB software testing foundation multichoice test
+https://www.linkedin.com/pulse/software-testing-standards-certifications-dont-hurt-anyone-philip-lew

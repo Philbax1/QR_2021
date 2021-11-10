@@ -1,0 +1,16 @@
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.pdb
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.pdb
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.AssemblyReference.cache
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CopyComplete
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.pdb

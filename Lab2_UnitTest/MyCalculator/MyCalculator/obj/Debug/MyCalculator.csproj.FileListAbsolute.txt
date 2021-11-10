@@ -1,0 +1,6 @@
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\bin\Debug\MyCalculator.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+D:\philBaxter\QR_2021\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
